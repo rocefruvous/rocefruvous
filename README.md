@@ -1,8 +1,18 @@
 # i'm pewter or am i?
 
-i love cuomoputers and coding 
-and ye i have a scaru websit
+<p>
+  i love cuomoputers and coding 
 
+  i barely use github tho (skill issue)
+</p>
+
+<h3>
+  Tech Stack
+</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,linux,vscodium,clion" alt="Tech Stack" />
+</p>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rocefruvous&show_icons=true&theme=dark" />
 </a>
